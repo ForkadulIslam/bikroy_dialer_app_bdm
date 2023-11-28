@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "818425217360",
+    "project_id": "bikroy-dialer",
+    "storage_bucket": "bikroy-dialer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818425217360:android:8b2e1707892910b97dec55",
+        "android_client_info": {
+          "package_name": "com.dialer.bikroy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818425217360-b433udhqvs3iv3mguegapvk116qsi4dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dialer.bikroy",
+            "certificate_hash": "96b8bf28a3ea15748aec059d68bc7dfe7153b031"
+          }
+        },
+        {
+          "client_id": "818425217360-dg3tm1bol02fjhk6jllqb10d8opvpcad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwq9YVm0yWKckSaQHFBismQdONeliphfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818425217360-dg3tm1bol02fjhk6jllqb10d8opvpcad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
